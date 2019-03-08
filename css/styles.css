@@ -1,0 +1,14 @@
+.body{
+	width: 100%;
+
+}
+
+.container{
+  max-width: 900px;
+  margin: auto;
+  padding: 10px;
+}
+
+.img{
+	text-align: center;
+}
